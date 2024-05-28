@@ -17,7 +17,9 @@ setInterval(() => {
         ".presence-entity__image",                   // feed member msg section profile pics updations
         ".ghost-person",                             // other people suggegations profile pics
         ".msg-facepile-grid__img",                   // message section other user profile pics
-        ".update-components-carousel-job__image"     // profile img of carousels
+        ".update-components-carousel-job__image",    // profile img of carousels
+        ".ivm-image-view-model__circle-img",         //group profile images   
+        ".ivm-image-view-model__square-img"          //group profile images
     ];
 
     // Function to update image source and alt text
