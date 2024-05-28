@@ -1,0 +1,19 @@
+{
+    "manifest_version": 3,
+    "name": "LinkedIn Profile Pic Changer",
+    "description": "Changes all profile pictures on the LinkedIn homepage to a specified image.",
+    "version": "1.0",
+    "icons": {
+      "48": "images/icon-48.png"
+    },
+    "content_scripts": [
+      {
+        "js": [
+          "content-script.js"
+        ],
+        "matches": [
+          "https://www.linkedin.com/feed/"
+        ]
+      }
+    ]
+  }
