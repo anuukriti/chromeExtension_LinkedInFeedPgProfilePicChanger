@@ -1,5 +1,7 @@
 # chromeExtension_LinkedInFeedPgProfilePicChanger
 
+# Note: Please refresh your browser once to see the changes 
+
 ## Extension's Functionality Demo
 
 https://github.com/anuukriti/chromeExtension_LinkedInFeedPgProfilePicChanger/assets/97687618/558443e2-12b8-48b2-ac1e-89b969bc1233
