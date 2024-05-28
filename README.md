@@ -12,6 +12,6 @@ https://github.com/anuukriti/chromeExtension_LinkedInFeedPgProfilePicChanger/ass
 2. Extract the file to another folder.
 3. Open "Extension" -> "Manage Extension" in Chrome.
 4. Select developer Mode
-5. Select the code folder, click update, and use this extension. 
+5. Select the "Load unpack button" then select the code folder, click update, and use this extension. 
 
 
