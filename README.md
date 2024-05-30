@@ -1,6 +1,6 @@
 # chromeExtension_LinkedInFeedPgProfilePicChanger
 
-# Note: Please refresh your browser once to see the changes 
+Note: If it doesn't work, please refresh your browser to see the changes. 
 
 ## Extension's Functionality Demo
 
